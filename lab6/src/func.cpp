@@ -1,4 +1,4 @@
-#include "func.hpp"
+#include <func.hpp>
 #include <iostream>
 using std::cin;
 using std::cout;

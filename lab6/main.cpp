@@ -1,6 +1,6 @@
 ﻿
 #include <iostream>
-#include "func.hpp"
+#include <func.hpp>
 using std::cin;
 using std::cout;
 using std::endl;
